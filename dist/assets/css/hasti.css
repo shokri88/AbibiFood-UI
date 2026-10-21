@@ -1,6 +1,6 @@
-/* Hasti typography overrides. Load after style.css.
+/* Hasti typography overrides. Load after style-02.css.
  * Change --abibi-font-family below to switch between the supplied webfonts.
- * Only Heavy faces are supplied; existing sizes and layout stay in style.css.
+ * Only Heavy faces are supplied; existing sizes and layout stay in style-02.css.
  */
 @font-face {
     font-family: "Hasti";

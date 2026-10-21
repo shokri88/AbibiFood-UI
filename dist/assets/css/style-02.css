@@ -1,8 +1,8 @@
-@font-face {
+/* @font-face {
     font-family: Vazirmatn;
     src: url('../fonts/font.woff2') format('woff2');
     font-display: swap
-}
+} */
 
 :root {
     --brand: #99252c;

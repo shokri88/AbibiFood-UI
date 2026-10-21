@@ -41,7 +41,7 @@ dist/
       data.js                 # محصولات، شعبه‌ها و قوانین نمونه باشگاه
       core.js                 # ابزارهای مشترک و وضعیت محلی
       pages/                  # کنترلر جدا برای هر حوزه
-    css/style.css
+    css/style-02.css
     image/
     fonts/
     vendor/bootstrap/         # CSS RTL و JS محلی Bootstrap
